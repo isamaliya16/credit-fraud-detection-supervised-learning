@@ -1,4 +1,7 @@
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=800&color=FF4444&center=true&vCenter=true&width=750&lines=🚨+FRAUD+ALERT+DETECTED;Analyzing+284%2C807+transactions...;Extreme+Imbalance+%E2%80%94+0.17%25+Fraud;Building+Fraud+Detection+Pipeline...;XGBoost+Deployed+%E2%9C%94" alt="Alert Typing SVG" />
+
 <br>
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:c0392b,100:e74c3c&height=220&section=header&text=Credit%20Card%20Fraud%20Detection&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Imbalanced%20Classification%20with%20Threshold%20Optimisation%20%7C%20Practical%20Exam%20Set%20C&descAlignY=58&descAlign=50&descSize=14)
@@ -23,6 +26,19 @@
 </div>
 
 <br>
+
+
+## 🎬 Video Walkthrough
+
+<div align="center">
+
+[![Watch the Project Walkthrough](https://img.shields.io/badge/▶%20Watch%20Full%20Walkthrough-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/150itvJmGsxarcgh0zWCcIcss0Uf7hHXQ/view?usp=sharing)
+
+🎥 A complete end-to-end video explanation of the project — covering exploratory data analysis (EDA), feature engineering, class imbalance handling (SMOTE, undersampling, and class weighting), Logistic Regression, Random Forest, and XGBoost model building, hyperparameter tuning, PR-AUC evaluation, threshold optimization, business cost-benefit analysis, and the final deployment recommendation for the Credit Card Fraud Detection System.   
+>
+> 📌 *Click the button above or [open the video directly →](https://drive.google.com/file/d/150itvJmGsxarcgh0zWCcIcss0Uf7hHXQ/view?usp=sharing)*
+
+</div>
 
 ---
 
